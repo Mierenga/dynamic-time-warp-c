@@ -1,0 +1,679 @@
+xsize 13 ysize 13 params 3
+float_x[0 0] = 1
+float_x[0 1] = 10
+float_x[0 2] = 65521
+float_x[1 0] = 1
+float_x[1 1] = 10
+float_x[1 2] = 65521
+float_x[2 0] = 1
+float_x[2 1] = 10
+float_x[2 2] = 65521
+float_x[3 0] = 1
+float_x[3 1] = 10
+float_x[3 2] = 65521
+float_x[4 0] = 2
+float_x[4 1] = 10
+float_x[4 2] = 65521
+float_x[5 0] = 3
+float_x[5 1] = 8
+float_x[5 2] = 65521
+float_x[6 0] = 3
+float_x[6 1] = 7
+float_x[6 2] = 65522
+float_x[7 0] = 5
+float_x[7 1] = 5
+float_x[7 2] = 65523
+float_x[8 0] = 7
+float_x[8 1] = 3
+float_x[8 2] = 65522
+float_x[9 0] = 2
+float_x[9 1] = 3
+float_x[9 2] = 65522
+float_x[10 0] = 1
+float_x[10 1] = 4
+float_x[10 2] = 65521
+float_x[11 0] = 1
+float_x[11 1] = 8
+float_x[11 2] = 65521
+float_x[12 0] = 1
+float_x[12 1] = 10
+float_x[12 2] = 65521
+float_y[0 0] = 1
+float_y[0 1] = 10
+float_y[0 2] = 65521
+float_y[1 0] = 2
+float_y[1 1] = 3
+float_y[1 2] = 65522
+float_y[2 0] = 1
+float_y[2 1] = 10
+float_y[2 2] = 65521
+float_y[3 0] = 1
+float_y[3 1] = 10
+float_y[3 2] = 65521
+float_y[4 0] = 1
+float_y[4 1] = 8
+float_y[4 2] = 65521
+float_y[5 0] = 3
+float_y[5 1] = 7
+float_y[5 2] = 65522
+float_y[6 0] = 2
+float_y[6 1] = 10
+float_y[6 2] = 65521
+float_y[7 0] = 7
+float_y[7 1] = 3
+float_y[7 2] = 65522
+float_y[8 0] = 1
+float_y[8 1] = 10
+float_y[8 2] = 65521
+float_y[9 0] = 1
+float_y[9 1] = 4
+float_y[9 2] = 65521
+float_y[10 0] = 3
+float_y[10 1] = 8
+float_y[10 2] = 65521
+float_y[11 0] = 1
+float_y[11 1] = 10
+float_y[11 2] = 65521
+float_y[12 0] = 5
+float_y[12 1] = 5
+float_y[12 2] = 65523
+Dist: 0 0 0 0
+Dist: 0 1 51 51
+Dist: 0 2 0 0
+Dist: 0 3 0 0
+Dist: 0 4 4 4
+Dist: 0 5 14 14
+Dist: 0 6 1 1
+Dist: 0 7 86 86
+Dist: 0 8 0 0
+Dist: 0 9 36 36
+Dist: 0 10 8 8
+Dist: 0 11 0 0
+Dist: 0 12 45 45
+Dist: 1 0 0 0
+Dist: 1 1 51 51
+Dist: 1 2 0 0
+Dist: 1 3 0 0
+Dist: 1 4 4 4
+Dist: 1 5 14 14
+Dist: 1 6 1 1
+Dist: 1 7 86 86
+Dist: 1 8 0 0
+Dist: 1 9 36 36
+Dist: 1 10 8 8
+Dist: 1 11 0 0
+Dist: 1 12 45 45
+Dist: 2 0 0 0
+Dist: 2 1 51 51
+Dist: 2 2 0 0
+Dist: 2 3 0 0
+Dist: 2 4 4 4
+Dist: 2 5 14 14
+Dist: 2 6 1 1
+Dist: 2 7 86 86
+Dist: 2 8 0 0
+Dist: 2 9 36 36
+Dist: 2 10 8 8
+Dist: 2 11 0 0
+Dist: 2 12 45 45
+Dist: 3 0 0 0
+Dist: 3 1 51 51
+Dist: 3 2 0 0
+Dist: 3 3 0 0
+Dist: 3 4 4 4
+Dist: 3 5 14 14
+Dist: 3 6 1 1
+Dist: 3 7 86 86
+Dist: 3 8 0 0
+Dist: 3 9 36 36
+Dist: 3 10 8 8
+Dist: 3 11 0 0
+Dist: 3 12 45 45
+Dist: 4 0 1 1
+Dist: 4 1 50 50
+Dist: 4 2 1 1
+Dist: 4 3 1 1
+Dist: 4 4 5 5
+Dist: 4 5 11 11
+Dist: 4 6 0 0
+Dist: 4 7 75 75
+Dist: 4 8 1 1
+Dist: 4 9 37 37
+Dist: 4 10 5 5
+Dist: 4 11 1 1
+Dist: 4 12 38 38
+Dist: 5 0 8 8
+Dist: 5 1 27 27
+Dist: 5 2 8 8
+Dist: 5 3 8 8
+Dist: 5 4 4 4
+Dist: 5 5 2 2
+Dist: 5 6 5 5
+Dist: 5 7 42 42
+Dist: 5 8 8 8
+Dist: 5 9 20 20
+Dist: 5 10 0 0
+Dist: 5 11 8 8
+Dist: 5 12 17 17
+Dist: 6 0 14 14
+Dist: 6 1 17 17
+Dist: 6 2 14 14
+Dist: 6 3 14 14
+Dist: 6 4 6 6
+Dist: 6 5 0 0
+Dist: 6 6 11 11
+Dist: 6 7 32 32
+Dist: 6 8 14 14
+Dist: 6 9 14 14
+Dist: 6 10 2 2
+Dist: 6 11 14 14
+Dist: 6 12 9 9
+Dist: 7 0 45 45
+Dist: 7 1 14 14
+Dist: 7 2 45 45
+Dist: 7 3 45 45
+Dist: 7 4 29 29
+Dist: 7 5 9 9
+Dist: 7 6 38 38
+Dist: 7 7 9 9
+Dist: 7 8 45 45
+Dist: 7 9 21 21
+Dist: 7 10 17 17
+Dist: 7 11 45 45
+Dist: 7 12 0 0
+Dist: 8 0 86 86
+Dist: 8 1 25 25
+Dist: 8 2 86 86
+Dist: 8 3 86 86
+Dist: 8 4 62 62
+Dist: 8 5 32 32
+Dist: 8 6 75 75
+Dist: 8 7 0 0
+Dist: 8 8 86 86
+Dist: 8 9 38 38
+Dist: 8 10 42 42
+Dist: 8 11 86 86
+Dist: 8 12 9 9
+Dist: 9 0 51 51
+Dist: 9 1 0 0
+Dist: 9 2 51 51
+Dist: 9 3 51 51
+Dist: 9 4 27 27
+Dist: 9 5 17 17
+Dist: 9 6 50 50
+Dist: 9 7 25 25
+Dist: 9 8 51 51
+Dist: 9 9 3 3
+Dist: 9 10 27 27
+Dist: 9 11 51 51
+Dist: 9 12 14 14
+Dist: 10 0 36 36
+Dist: 10 1 3 3
+Dist: 10 2 36 36
+Dist: 10 3 36 36
+Dist: 10 4 16 16
+Dist: 10 5 14 14
+Dist: 10 6 37 37
+Dist: 10 7 38 38
+Dist: 10 8 36 36
+Dist: 10 9 0 0
+Dist: 10 10 20 20
+Dist: 10 11 36 36
+Dist: 10 12 21 21
+Dist: 11 0 4 4
+Dist: 11 1 27 27
+Dist: 11 2 4 4
+Dist: 11 3 4 4
+Dist: 11 4 0 0
+Dist: 11 5 6 6
+Dist: 11 6 5 5
+Dist: 11 7 62 62
+Dist: 11 8 4 4
+Dist: 11 9 16 16
+Dist: 11 10 4 4
+Dist: 11 11 4 4
+Dist: 11 12 29 29
+Dist: 12 0 0 0
+Dist: 12 1 51 51
+Dist: 12 2 0 0
+Dist: 12 3 0 0
+Dist: 12 4 4 4
+Dist: 12 5 14 14
+Dist: 12 6 1 1
+Dist: 12 7 86 86
+Dist: 12 8 0 0
+Dist: 12 9 36 36
+Dist: 12 10 8 8
+Dist: 12 11 0 0
+Dist: 12 12 45 45
+globdist[2][2] = 0
+globdist[2][2] = 50
+move j:2:i:2=1
+globdist[3][2] = 50
+move j:3:i:2=1
+globdist[4][2] = 0
+move j:4:i:2=3
+globdist[5][2] = 7
+move j:5:i:2=2
+globdist[6][2] = 13
+move j:6:i:2=2
+globdist[7][2] = 44
+move j:7:i:2=2
+globdist[8][2] = 85
+move j:8:i:2=2
+globdist[9][2] = 50
+move j:9:i:2=2
+globdist[10][2] = 35
+move j:10:i:2=2
+globdist[11][2] = 3
+move j:11:i:2=2
+globdist[12][2] = 3
+move j:12:i:2=3
+globdist[2][3] = 0
+globdist[2][3] = 51
+move j:2:i:3=1
+globdist[3][3] = 50
+move j:3:i:3=2
+globdist[4][3] = 1
+move j:4:i:3=1
+globdist[5][3] = 8
+move j:5:i:3=2
+globdist[6][3] = 21
+move j:6:i:3=2
+globdist[7][3] = 58
+move j:7:i:3=2
+globdist[8][3] = 130
+move j:8:i:3=2
+globdist[9][3] = 101
+move j:9:i:3=1
+globdist[10][3] = 71
+move j:10:i:3=1
+globdist[11][3] = 7
+move j:11:i:3=1
+globdist[12][3] = 3
+move j:12:i:3=2
+globdist[2][4] = 0
+globdist[2][4] = 3
+move j:2:i:4=2
+globdist[3][4] = 7
+move j:3:i:4=3
+globdist[4][4] = 55
+move j:4:i:4=2
+globdist[5][4] = 5
+move j:5:i:4=2
+globdist[6][4] = 11
+move j:6:i:4=3
+globdist[7][4] = 43
+move j:7:i:4=3
+globdist[8][4] = 112
+move j:8:i:4=3
+globdist[9][4] = 147
+move j:9:i:4=3
+globdist[10][4] = 102
+move j:10:i:4=1
+globdist[11][4] = 39
+move j:11:i:4=1
+globdist[12][4] = 7
+move j:12:i:4=1
+globdist[2][5] = 0
+globdist[2][5] = 17
+move j:2:i:5=2
+globdist[3][5] = 17
+move j:3:i:5=2
+globdist[4][5] = 18
+move j:4:i:5=2
+globdist[5][5] = 7
+move j:5:i:5=1
+globdist[6][5] = 5
+move j:6:i:5=2
+globdist[7][5] = 14
+move j:7:i:5=3
+globdist[8][5] = 52
+move j:8:i:5=3
+globdist[9][5] = 92
+move j:9:i:5=3
+globdist[10][5] = 131
+move j:10:i:5=1
+globdist[11][5] = 77
+move j:11:i:5=1
+globdist[12][5] = 25
+move j:12:i:5=1
+globdist[2][6] = 0
+globdist[2][6] = 1
+move j:2:i:6=3
+globdist[3][6] = 15
+move j:3:i:6=3
+globdist[4][6] = 17
+move j:4:i:6=2
+globdist[5][6] = 22
+move j:5:i:6=3
+globdist[6][6] = 16
+move j:6:i:6=1
+globdist[7][6] = 43
+move j:7:i:6=2
+globdist[8][6] = 89
+move j:8:i:6=2
+globdist[9][6] = 102
+move j:9:i:6=2
+globdist[10][6] = 129
+move j:10:i:6=2
+globdist[11][6] = 113
+move j:11:i:6=1
+globdist[12][6] = 54
+move j:12:i:6=1
+globdist[2][7] = 0
+globdist[2][7] = 86
+move j:2:i:7=2
+globdist[3][7] = 87
+move j:3:i:7=2
+globdist[4][7] = 90
+move j:4:i:7=2
+globdist[5][7] = 59
+move j:5:i:7=2
+globdist[6][7] = 50
+move j:6:i:7=1
+globdist[7][7] = 25
+move j:7:i:7=2
+globdist[8][7] = 25
+move j:8:i:7=3
+globdist[9][7] = 68
+move j:9:i:7=3
+globdist[10][7] = 140
+move j:10:i:7=2
+globdist[11][7] = 191
+move j:11:i:7=2
+globdist[12][7] = 164
+move j:12:i:7=1
+globdist[2][8] = 0
+globdist[2][8] = 85
+move j:2:i:8=2
+globdist[3][8] = 85
+move j:3:i:8=3
+globdist[4][8] = 87
+move j:4:i:8=3
+globdist[5][8] = 67
+move j:5:i:8=1
+globdist[6][8] = 68
+move j:6:i:8=1
+globdist[7][8] = 70
+move j:7:i:8=1
+globdist[8][8] = 111
+move j:8:i:8=2
+globdist[9][8] = 76
+move j:9:i:8=2
+globdist[10][8] = 104
+move j:10:i:8=2
+globdist[11][8] = 108
+move j:11:i:8=3
+globdist[12][8] = 144
+move j:12:i:8=3
+globdist[2][9] = 0
+globdist[2][9] = 35
+move j:2:i:9=2
+globdist[3][9] = 71
+move j:3:i:9=3
+globdist[4][9] = 122
+move j:4:i:9=2
+globdist[5][9] = 107
+move j:5:i:9=2
+globdist[6][9] = 81
+move j:6:i:9=2
+globdist[7][9] = 89
+move j:7:i:9=2
+globdist[8][9] = 108
+move j:8:i:9=2
+globdist[9][9] = 79
+move j:9:i:9=1
+globdist[10][9] = 76
+move j:10:i:9=2
+globdist[11][9] = 92
+move j:11:i:9=3
+globdist[12][9] = 144
+move j:12:i:9=2
+globdist[2][10] = 0
+globdist[2][10] = 15
+move j:2:i:10=3
+globdist[3][10] = 43
+move j:3:i:10=2
+globdist[4][10] = 48
+move j:4:i:10=3
+globdist[5][10] = 76
+move j:5:i:10=3
+globdist[6][10] = 83
+move j:6:i:10=1
+globdist[7][10] = 98
+move j:7:i:10=2
+globdist[8][10] = 131
+move j:8:i:10=2
+globdist[9][10] = 135
+move j:9:i:10=2
+globdist[10][10] = 96
+move j:10:i:10=1
+globdist[11][10] = 80
+move j:11:i:10=2
+globdist[12][10] = 88
+move j:12:i:10=3
+globdist[2][11] = 0
+globdist[2][11] = 7
+move j:2:i:11=2
+globdist[3][11] = 7
+move j:3:i:11=3
+globdist[4][11] = 16
+move j:4:i:11=3
+globdist[5][11] = 52
+move j:5:i:11=3
+globdist[6][11] = 70
+move j:6:i:11=3
+globdist[7][11] = 128
+move j:7:i:11=2
+globdist[8][11] = 184
+move j:8:i:11=2
+globdist[9][11] = 182
+move j:9:i:11=2
+globdist[10][11] = 135
+move j:10:i:11=1
+globdist[11][11] = 84
+move j:11:i:11=1
+globdist[12][11] = 80
+move j:12:i:11=2
+globdist[2][12] = 0
+globdist[2][12] = 44
+move j:2:i:12=2
+globdist[3][12] = 52
+move j:3:i:12=2
+globdist[4][12] = 45
+move j:4:i:12=2
+globdist[5][12] = 33
+move j:5:i:12=2
+globdist[6][12] = 42
+move j:6:i:12=3
+globdist[7][12] = 61
+move j:7:i:12=3
+globdist[8][12] = 79
+move j:8:i:12=3
+globdist[9][12] = 151
+move j:9:i:12=3
+globdist[10][12] = 192
+move j:10:i:12=1
+globdist[11][12] = 129
+move j:11:i:12=1
+globdist[12][12] = 125
+move j:12:i:12=1
+[0 0] globdist: 0    move: 0    
+[0 1] globdist: 65535    move: 0    
+[0 2] globdist: 65535    move: 0    
+[0 3] globdist: 65535    move: 0    
+[0 4] globdist: 65535    move: 0    
+[0 5] globdist: 65535    move: 0    
+[0 6] globdist: 65535    move: 0    
+[0 7] globdist: 65535    move: 0    
+[0 8] globdist: 65535    move: 0    
+[0 9] globdist: 65535    move: 0    
+[0 10] globdist: 65535    move: 0    
+[0 11] globdist: 65535    move: 0    
+[0 12] globdist: 65535    move: 0    
+[1 0] globdist: 65535    move: 0    
+[1 1] globdist: 51    move: 2    
+[1 2] globdist: 65535    move: 0    
+[1 3] globdist: 65535    move: 0    
+[1 4] globdist: 3    move: 0    
+[1 5] globdist: 13    move: 0    
+[1 6] globdist: 0    move: 0    
+[1 7] globdist: 85    move: 0    
+[1 8] globdist: 65535    move: 0    
+[1 9] globdist: 35    move: 0    
+[1 10] globdist: 7    move: 0    
+[1 11] globdist: 65535    move: 0    
+[1 12] globdist: 44    move: 0    
+[2 0] globdist: 65535    move: 0    
+[2 1] globdist: 65535    move: 0    
+[2 2] globdist: 50    move: 1    
+[2 3] globdist: 51    move: 1    
+[2 4] globdist: 3    move: 2    
+[2 5] globdist: 17    move: 2    
+[2 6] globdist: 1    move: 3    
+[2 7] globdist: 86    move: 2    
+[2 8] globdist: 85    move: 2    
+[2 9] globdist: 35    move: 2    
+[2 10] globdist: 15    move: 3    
+[2 11] globdist: 7    move: 2    
+[2 12] globdist: 44    move: 2    
+[3 0] globdist: 65535    move: 0    
+[3 1] globdist: 65535    move: 0    
+[3 2] globdist: 50    move: 1    
+[3 3] globdist: 50    move: 2    
+[3 4] globdist: 7    move: 3    
+[3 5] globdist: 17    move: 2    
+[3 6] globdist: 15    move: 3    
+[3 7] globdist: 87    move: 2    
+[3 8] globdist: 85    move: 3    
+[3 9] globdist: 71    move: 3    
+[3 10] globdist: 43    move: 2    
+[3 11] globdist: 7    move: 3    
+[3 12] globdist: 52    move: 2    
+[4 0] globdist: 65535    move: 0    
+[4 1] globdist: 65535    move: 0    
+[4 2] globdist: 0    move: 3    
+[4 3] globdist: 1    move: 1    
+[4 4] globdist: 55    move: 2    
+[4 5] globdist: 18    move: 2    
+[4 6] globdist: 17    move: 2    
+[4 7] globdist: 90    move: 2    
+[4 8] globdist: 87    move: 3    
+[4 9] globdist: 122    move: 2    
+[4 10] globdist: 48    move: 3    
+[4 11] globdist: 16    move: 3    
+[4 12] globdist: 45    move: 2    
+[5 0] globdist: 65535    move: 0    
+[5 1] globdist: 65535    move: 0    
+[5 2] globdist: 7    move: 2    
+[5 3] globdist: 8    move: 2    
+[5 4] globdist: 5    move: 2    
+[5 5] globdist: 7    move: 1    
+[5 6] globdist: 22    move: 3    
+[5 7] globdist: 59    move: 2    
+[5 8] globdist: 67    move: 1    
+[5 9] globdist: 107    move: 2    
+[5 10] globdist: 76    move: 3    
+[5 11] globdist: 52    move: 3    
+[5 12] globdist: 33    move: 2    
+[6 0] globdist: 65535    move: 0    
+[6 1] globdist: 65535    move: 0    
+[6 2] globdist: 13    move: 2    
+[6 3] globdist: 21    move: 2    
+[6 4] globdist: 11    move: 3    
+[6 5] globdist: 5    move: 2    
+[6 6] globdist: 16    move: 1    
+[6 7] globdist: 50    move: 1    
+[6 8] globdist: 68    move: 1    
+[6 9] globdist: 81    move: 2    
+[6 10] globdist: 83    move: 1    
+[6 11] globdist: 70    move: 3    
+[6 12] globdist: 42    move: 3    
+[7 0] globdist: 65535    move: 0    
+[7 1] globdist: 65535    move: 0    
+[7 2] globdist: 44    move: 2    
+[7 3] globdist: 58    move: 2    
+[7 4] globdist: 43    move: 3    
+[7 5] globdist: 14    move: 3    
+[7 6] globdist: 43    move: 2    
+[7 7] globdist: 25    move: 2    
+[7 8] globdist: 70    move: 1    
+[7 9] globdist: 89    move: 2    
+[7 10] globdist: 98    move: 2    
+[7 11] globdist: 128    move: 2    
+[7 12] globdist: 61    move: 3    
+[8 0] globdist: 65535    move: 0    
+[8 1] globdist: 65535    move: 0    
+[8 2] globdist: 85    move: 2    
+[8 3] globdist: 130    move: 2    
+[8 4] globdist: 112    move: 3    
+[8 5] globdist: 52    move: 3    
+[8 6] globdist: 89    move: 2    
+[8 7] globdist: 25    move: 3    
+[8 8] globdist: 111    move: 2    
+[8 9] globdist: 108    move: 2    
+[8 10] globdist: 131    move: 2    
+[8 11] globdist: 184    move: 2    
+[8 12] globdist: 79    move: 3    
+[9 0] globdist: 65535    move: 0    
+[9 1] globdist: 65535    move: 0    
+[9 2] globdist: 50    move: 2    
+[9 3] globdist: 101    move: 1    
+[9 4] globdist: 147    move: 3    
+[9 5] globdist: 92    move: 3    
+[9 6] globdist: 102    move: 2    
+[9 7] globdist: 68    move: 3    
+[9 8] globdist: 76    move: 2    
+[9 9] globdist: 79    move: 1    
+[9 10] globdist: 135    move: 2    
+[9 11] globdist: 182    move: 2    
+[9 12] globdist: 151    move: 3    
+[10 0] globdist: 65535    move: 0    
+[10 1] globdist: 65535    move: 0    
+[10 2] globdist: 35    move: 2    
+[10 3] globdist: 71    move: 1    
+[10 4] globdist: 102    move: 1    
+[10 5] globdist: 131    move: 1    
+[10 6] globdist: 129    move: 2    
+[10 7] globdist: 140    move: 2    
+[10 8] globdist: 104    move: 2    
+[10 9] globdist: 76    move: 2    
+[10 10] globdist: 96    move: 1    
+[10 11] globdist: 135    move: 1    
+[10 12] globdist: 192    move: 1    
+[11 0] globdist: 65535    move: 0    
+[11 1] globdist: 65535    move: 0    
+[11 2] globdist: 3    move: 2    
+[11 3] globdist: 7    move: 1    
+[11 4] globdist: 39    move: 1    
+[11 5] globdist: 77    move: 1    
+[11 6] globdist: 113    move: 1    
+[11 7] globdist: 191    move: 2    
+[11 8] globdist: 108    move: 3    
+[11 9] globdist: 92    move: 3    
+[11 10] globdist: 80    move: 2    
+[11 11] globdist: 84    move: 1    
+[11 12] globdist: 129    move: 1    
+[12 0] globdist: 65535    move: 0    
+[12 1] globdist: 65535    move: 0    
+[12 2] globdist: 3    move: 3    
+[12 3] globdist: 3    move: 2    
+[12 4] globdist: 7    move: 1    
+[12 5] globdist: 25    move: 1    
+[12 6] globdist: 54    move: 1    
+[12 7] globdist: 164    move: 1    
+[12 8] globdist: 144    move: 3    
+[12 9] globdist: 144    move: 2    
+[12 10] globdist: 88    move: 3    
+[12 11] globdist: 80    move: 2    
+[12 12] globdist: 125    move: 1    
+Move 12 12 1
+Move 11 10 2
+Move 10 9 2
+Move 9 8 2
+Move 8 7 3
+Move 6 6 1
+Move 5 4 2
+Move 4 3 1
+Move 3 1 0
