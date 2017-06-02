@@ -1,1 +1,1 @@
-time ./dtw left-twist-model.dat "$1" left-twist-result 15 15 3
+time ./dtw models/left-twist.model "$1" left-twist.result 15 15 3
